@@ -1,1 +1,1 @@
-[dos](/images/test-simple-dos.svg)
+![dos](/images/test-simple-dos.svg)
